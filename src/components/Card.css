@@ -1,0 +1,12 @@
+/*rounded-full absolute grid place-items-center */
+.btn{
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    display: grid;
+    place-items:center;
+    margin-left: 260px;
+    margin-top: -13px;
+}
